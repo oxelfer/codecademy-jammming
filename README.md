@@ -1,3 +1,4 @@
+(Codecademy - Full-Stack Career Path - Jammming Project (part 1 and 2) - React learning module)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
