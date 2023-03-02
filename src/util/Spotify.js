@@ -1,6 +1,7 @@
 // Point 74 - links for Spotify API stuff
 const clientId = "8f26678d35f848b6a3d4f3f2b8dbdad8";
 // const redirectUri = "http://localhost:3000/";
+// Netlify used for deploying app
 const redirectUri = "https://gentle-babka-468b7c.netlify.app";
 let accessToken;
 let userID;
